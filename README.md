@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/736x/33/49/4d/33494db072218935314b99fda5b66bb9.jpg)](https://google.com)
+![Black and Purple Edgy Gaming Youtube Banner](https://github.com/Papuxking/Papuxking/assets/152533095/86eabd5d-0c48-4ea9-ba47-f03aa79e65ff)(https://google.com)
 
 <h1 align="center">Hola 👋, soy Kevin Sánchez</h1>
 <h3 align="center">Soy un estudiante de la carrera de Software en la facultad de Ingeniería en Sistemas, Electrónica e Industrial de la honorable Universidad Técnica de Ambato.</h3>
