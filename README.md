@@ -4,7 +4,7 @@
 <h3 align="center">Soy un estudiante de la carrera de Software en la facultad de Ingeniería en Sistemas, Electrónica e Industrial de la honorable Universidad Técnica de Ambato.</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5e4c17267c099a4d625b6fcf/03e2173e-fdaf-40d0-b674-aba71d87b005/future-gaming+%281%29.gif">
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=papuxking&label=Profile%20views&color=0e75b6&style=flat](https://i.pinimg.com/originals/de/34/12/de3412e3c5d2ed0b11ec8291a28a3db5.gif)" alt="papuxking" /> </p>
+<!--<p align="left"> <img src="[https://komarev.com/ghpvc/?username=papuxking&label=Profile%20views&color=0e75b6&style=flat](https://i.pinimg.com/originals/de/34/12/de3412e3c5d2ed0b11ec8291a28a3db5.gif)" alt="papuxking" /> </p>-->
 
 - 🌱 Actualmente estoy aprendiendo **Oracle, PostgreSQL y React**
 
