@@ -149,12 +149,12 @@ func contact() -> String:
 
 <!-- General stats -->
 <a href="https://github.com/Papuxking">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=papuxking&show_icons=true&theme=dark&title_color=00d4ff&text_color=e8e8ff&icon_color=7c3aed&border_color=7c3aed&bg_color=070714&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=papuxking&theme=github_dark" alt="GitHub Stats"/>
 </a>
 
 <!-- Top langs -->
 <a href="https://github.com/Papuxking">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=papuxking&layout=compact&theme=dark&title_color=00d4ff&text_color=e8e8ff&icon_color=7c3aed&border_color=7c3aed&bg_color=070714&langs_count=8" alt="Top Languages"/>
+  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=papuxking&theme=github_dark" alt="Top Languages"/>
 </a>
 
 </div>
@@ -167,7 +167,7 @@ func contact() -> String:
 ## 🚀 Proyecto Destacado
 
 <a href="https://github.com/Papuxking/Sistema-de-docentes-tutores">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=papuxking&repo=Sistema-de-docentes-tutores&theme=dark&title_color=00d4ff&text_color=e8e8ff&icon_color=7c3aed&border_color=7c3aed&bg_color=070714" alt="Sistema de Docentes Tutores"/>
+  <img width="49%" src="https://gh-card.dev/repos/Papuxking/Sistema-de-docentes-tutores.svg" alt="Sistema de Docentes Tutores"/>
 </a>
 
 > 🎮 **Próximamente:** mis proyectos Godot estarán publicados aquí. Stay tuned!
