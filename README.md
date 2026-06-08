@@ -1,74 +1,197 @@
-![Black and Purple Edgy Gaming Youtube Banner](https://github.com/Papuxking/Papuxking/assets/152533095/86eabd5d-0c48-4ea9-ba47-f03aa79e65ff)
+<div align="center">
 
-<h1 align="center">Hola 👋, soy Kevin Sánchez</h1>
-<h3 align="center">Soy un estudiante de la carrera de Software en la facultad de Ingeniería en Sistemas, Electrónica e Industrial de la honorable Universidad Técnica de Ambato.</h3>
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5e4c17267c099a4d625b6fcf/03e2173e-fdaf-40d0-b674-aba71d87b005/future-gaming+%281%29.gif">
+<!-- ════════════════════════════════════════════
+     HEADER — onda animada con gradiente GodotCraft
+     ════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,17,12&height=200&section=header&text=Kevin%20Sánchez&fontSize=48&fontColor=e8e8ff&animation=fadeIn&fontAlignY=38&desc=%40Papuxking%20%7C%20Godot%20Game%20Developer%20%7C%20Ecuador%20%F0%9F%87%AA%F0%9F%87%A8&descAlignY=58&descSize=17" alt="GodotCraft header"/>
 
-<!--<p align="left"> <img src="[https://komarev.com/ghpvc/?username=papuxking&label=Profile%20views&color=0e75b6&style=flat](https://i.pinimg.com/originals/de/34/12/de3412e3c5d2ed0b11ec8291a28a3db5.gif)" alt="papuxking" /> </p>-->
+<!-- ════════
+     TYPING
+     ════════ -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=00D4FF&center=true&vCenter=true&width=550&height=50&lines=🎮+Godot+4+Game+Developer;🛠️+Software+Engineer+%40+UTA;🎨+Pixel+Art+Enthusiast;🚀+Building+GodotCraft+Portfolio;💜+Open+Source+%26+Indie+Games)](https://papuxking.github.io)
 
-- 🌱 Actualmente estoy aprendiendo **Oracle, PostgreSQL y React**
-
-- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/Papuxking?tab=repositories](https://github.com/Papuxking?tab=repositories)
-
-- 📝 Escribo regularmente artículos sobre [Tecnología](Tecnología)
-
-- 💬 Preguntame sobre **Java and MySQl**
-
-- 📫 Como llegar a mi **2cv36985@gmail.com**
-
-- ⚡ Dato curioso **Me gusta el anime y los videojuegos**
-
-<h3 align="left">Conectate conmigo:</h3>
-<p align="left">
-<a href="https://instagram.com/vin_kun_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vin_kun_s" height="30" width="40" /></a>
+<!-- ════════════
+     BADGES
+     ════════════ -->
+<p>
+  <a href="https://papuxking.github.io">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-GodotCraft-7c3aed?style=flat-square&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:2cv36985@gmail.com">
+    <img src="https://img.shields.io/badge/✉_Email-2cv36985@gmail.com-7c3aed?style=flat-square" alt="Email"/>
+  </a>
+  <a href="https://instagram.com/vin_kun_s">
+    <img src="https://img.shields.io/badge/Instagram-@vin__kun__s-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://twitter.com/PapuxK">
+    <img src="https://img.shields.io/badge/Twitter-@PapuxK-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=papuxking&color=7c3aed&style=flat-square&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
-<h3 align="left">Lenguajes y Herramientas:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>
+</div>
 
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://angular.io/assets/images/logos/angular/angular.svg" style="display: inline-block;"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="42" height="42" /></a>
-<a target="_blank" href="https://reactnative.dev/img/header_logo.svg" style="display: inline-block;"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="42" height="42" /></a>
-<a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
-<a target="_blank" href="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="display: inline-block;"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="42" height="42" /></a>
-<a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="42" height="42" /></a>
-</a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=papuxking&show_icons=true&locale=en&layout=compact" alt="papuxking" /></p>
+<!-- ═══════════════════════════════
+     CURRENT QUEST — GDScript block
+     ═══════════════════════════════ -->
+## 🎮 Current Quest
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=papuxking&show_icons=true&locale=en" alt="papuxking" /></p>
+```gdscript
+# kevin_sanchez.gd
+extends CharacterBody2D
+class_name KevinSanchez
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=papuxking&" alt="papuxking" /></p>
+## Desarrollador de videojuegos con Godot y Software Engineer.
+## Universidad Técnica de Ambato · Ecuador 🇪🇨
 
+const NAME      : String = "Kevin Sánchez (@Papuxking)"
+const ENGINE    : String = "Godot 4 + GDScript"
+const ROLE      : Array  = ["Game Developer", "Software Engineer"]
+const PORTFOLIO : String = "https://papuxking.github.io"
+
+var currently_building : String = "GodotCraft — portafolio game dev 🚀"
+var learning           : Array  = ["Shaders en Godot", "Game Design Patterns", "3D con Godot 4"]
+var ask_me_about       : Array  = ["Godot", "GDScript", "Java", "JavaScript", "Docker"]
+var fun_fact           : String = "Anime + Videojuegos = razón de existir 🎌🎮"
+
+func _ready() -> void:
+    print("¡Bienvenido a mi perfil! Level up juntos 🎮")
+
+func contact() -> String:
+    return "2cv36985@gmail.com"
+```
+
+---
+
+<!-- ══════════════════
+     TECH ARSENAL
+     ══════════════════ -->
+## ⚔️ Tech Arsenal
+
+### 🎮 Game Development
+<p>
+  <img src="https://skillicons.dev/icons?i=godot,blender,unity&theme=dark" alt="Game Dev"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="GDScript"/>
+  <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal"/>
+  <img src="https://img.shields.io/badge/Pixel_Art-ffd700?style=flat-square&logo=aseprite&logoColor=black" alt="Pixel Art"/>
+</p>
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,php,bash&theme=dark" alt="Languages"/>
+</p>
+
+### 🌐 Frontend & Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,angular,bootstrap&theme=dark" alt="Frontend"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" alt="Mobile"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" alt="Ionic"/>
+</p>
+
+### ⚙️ Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,spring,nestjs,laravel,express&theme=dark" alt="Backend"/>
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite&theme=dark" alt="Databases SQL"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB"/>
+  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white" alt="Cassandra"/>
+</p>
+
+### 🛠️ DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,aws,gcp,firebase,nginx,jenkins&theme=dark" alt="DevOps"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" alt="Heroku"/>
+</p>
+
+### 🧪 Testing & Design
+<p>
+  <img src="https://skillicons.dev/icons?i=jest,selenium,figma&theme=dark" alt="Testing Design"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" alt="Cypress"/>
+  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white" alt="Adobe XD"/>
+  <img src="https://img.shields.io/badge/Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white" alt="Mocha"/>
+</p>
+
+### 🤖 Data & AI
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" alt="AI ML"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="sklearn"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" alt="Hadoop"/>
+</p>
+
+---
+
+<!-- ══════════════════
+     GITHUB STATS
+     ══════════════════ -->
+## 📊 Stats
+
+<div align="center">
+
+<!-- Streak -->
+<a href="https://github.com/Papuxking">
+  <img width="49%" src="https://streak-stats.demolab.com/?user=papuxking&theme=dark&border=7c3aed&ring=7c3aed&fire=ffd700&currStreakLabel=00d4ff&sideLabels=00d4ff&background=070714&stroke=7c3aed30" alt="GitHub Streak"/>
+</a>
+
+<!-- General stats -->
+<a href="https://github.com/Papuxking">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=papuxking&show_icons=true&theme=dark&title_color=00d4ff&text_color=e8e8ff&icon_color=7c3aed&border_color=7c3aed&bg_color=070714&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+</a>
+
+<!-- Top langs -->
+<a href="https://github.com/Papuxking">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=papuxking&layout=compact&theme=dark&title_color=00d4ff&text_color=e8e8ff&icon_color=7c3aed&border_color=7c3aed&bg_color=070714&langs_count=8" alt="Top Languages"/>
+</a>
+
+</div>
+
+---
+
+<!-- ════════════════
+     FEATURED PROJECT
+     ════════════════ -->
+## 🚀 Proyecto Destacado
+
+<a href="https://github.com/Papuxking/Sistema-de-docentes-tutores">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=papuxking&repo=Sistema-de-docentes-tutores&theme=dark&title_color=00d4ff&text_color=e8e8ff&icon_color=7c3aed&border_color=7c3aed&bg_color=070714" alt="Sistema de Docentes Tutores"/>
+</a>
+
+> 🎮 **Próximamente:** mis proyectos Godot estarán publicados aquí. Stay tuned!
+
+---
+
+<!-- ════════════════
+     CONNECT
+     ════════════════ -->
+## 🌐 Conéctate
+
+<div align="center">
+
+| 🌍 Portfolio | 📧 Email | 📸 Instagram | 🐦 Twitter |
+|:---:|:---:|:---:|:---:|
+| [**GodotCraft**](https://papuxking.github.io) | [2cv36985@gmail.com](mailto:2cv36985@gmail.com) | [@vin_kun_s](https://instagram.com/vin_kun_s) | [@PapuxK](https://twitter.com/PapuxK) |
+
+<br/>
+
+*"No importa cuántas veces falle el build — el siguiente commit es el que importa."*
+
+</div>
+
+<!-- ════════════════════════════════════════════
+     FOOTER — onda de cierre
+     ════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,17,12&height=120&section=footer" alt="footer"/>
